@@ -1,7 +1,0 @@
-class file1
-{
-public void main(String S)
-{
-System.out.println("Welcome "+S+ " To the beginner repositary!");
-}
-}
